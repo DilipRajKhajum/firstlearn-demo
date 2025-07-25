@@ -1,2 +1,3 @@
 # firstlearn-demo
-This is my firest repository
+This is my first repository
+Author - Dilip Raj Khajum
